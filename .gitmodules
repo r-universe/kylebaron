@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/kylebaron/universe
 	shallow = true
 	branch = HEAD
+[submodule "mrgsim.sa"]
+	path = mrgsim.sa
+	url = https://github.com/kylebaron/mrgsim.sa
+	shallow = true
+	registered = true
