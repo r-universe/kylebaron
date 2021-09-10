@@ -8,3 +8,13 @@
 	url = https://github.com/kylebaron/mrgsim.sa
 	shallow = true
 	registered = true
+[submodule "mrgsim.parallel"]
+	path = mrgsim.parallel
+	url = https://github.com/kylebaron/mrgsim.parallel
+	shallow = true
+	registered = true
+[submodule "dmutate"]
+	path = dmutate
+	url = https://github.com/kylebaron/dmutate
+	shallow = true
+	registered = true

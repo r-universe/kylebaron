@@ -2,5 +2,13 @@
   {
     "package": "mrgsim.sa",
     "oncran": true
+  },
+  {
+    "package": "mrgsim.parallel",
+    "oncran": true
+  },
+  {
+    "package": "dmutate",
+    "oncran": true
   }
 ]
