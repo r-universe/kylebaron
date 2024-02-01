@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/kylebaron/universe
+	url = https://github.com/kylebaron/kylebaron.r-universe.dev
 	branch = HEAD
 [submodule "dmutate"]
 	path = dmutate
