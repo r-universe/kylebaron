@@ -5,6 +5,9 @@
 [submodule "dmutate"]
 	path = dmutate
 	url = https://github.com/kylebaron/dmutate
+[submodule "mrgsim.ds"]
+	path = mrgsim.ds
+	url = https://github.com/kylebaron/mrgsim.ds
 [submodule "mrgsim.parallel"]
 	path = mrgsim.parallel
 	url = https://github.com/kylebaron/mrgsim.parallel
